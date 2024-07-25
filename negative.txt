@@ -778,8 +778,8 @@
 "bngtmau":-3,
 "asem":-3,
 "susahhhhh":-3,
-"karepmu":-4
-"curi":-4
+"karepmu":-4,
+"curi":-4,
 "negatif":-4
 "miskin":-4
 "payahhhh":-4
