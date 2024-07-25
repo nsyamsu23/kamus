@@ -824,9 +824,9 @@
 "bankzat":-4,
 "erorternyata":-4,
 "merugikantolong":-4
-"buangetttt":-4
-"mulubuang":-4
-"gagalcoba":-4
+"buangetttt":-4,
+"mulubuang":-4,
+"gagalcoba":-4,
 "namepassowrd": -4,
 "verifikasimerepotkan": -4,
 "ngawur": -4,
