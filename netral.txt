@@ -1,4 +1,4 @@
-"always":0,
+{ "always":0,
 "way":0,
 "bcayg":0,
 "emailwa":0,
@@ -201,4 +201,5 @@
 "linkanejny":0,
 "mcdnya":0,
 "qrisusul":0,
-"sbge":0,
+"sbge":0
+}
