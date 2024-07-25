@@ -1084,6 +1084,6 @@
 "bngstt":-5,
 "penipuannn":-5,
 "selingkuhin":-5,
-"amsyong":-5,
+"amsyong":-5
 }
 
