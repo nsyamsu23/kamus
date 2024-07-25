@@ -823,7 +823,7 @@
 "sombong":-4,
 "bankzat":-4,
 "erorternyata":-4,
-"merugikantolong":-4
+"merugikantolong":-4,
 "buangetttt":-4,
 "mulubuang":-4,
 "gagalcoba":-4,
