@@ -780,124 +780,124 @@
 "susahhhhh":-3,
 "karepmu":-4,
 "curi":-4,
-"negatif":-4
-"miskin":-4
-"payahhhh":-4
-"dikerjain":-4
-"setan":-4
-"garibet":-4
-"sebel":-4
-"hancur":-4
-"lintah":-4
-"fitut":-4
-"lemotttt":-4
-"retas":-4
-"sesat":-4
-"terblokirdan":-4
-"unfaedah":-4
-"oprtr":-4
-"kacauu":-4
-"problemm":-4
-"dapatin":-4
-"otppadahal":-4
-"kacauuuuu":-4
-"bused":-4
-"parahhhhhhh":-4
-"beruk":-4
-"kendalatapi":-4
-"anjeng":-4
-"haduuuuh":-4
-"jebot":-4
-"ditolakoke":-4
-"ngecewain":-4
-"terbolokir":-4
-"anjjjj":-4
-"lemotttttttt":-4
-"gakada":-4
-"gagak":-4
-"errorr":-4
-"hancurr":-4
-"10kgilak":-4
-"parahmaaf":-4
-"maluin":-4
-"ketidaknyamanan":-4
-"sombong":-4
-"bankzat":-4
-"erorternyata":-4
-"merugikantolong":-4
-"buangetttt":-4
-"mulubuang":-4
-"gagalcoba":-4
-"namepassowrd":-4
-"verifikasimerepotkan":-4
-"ngawur":-4
-"ngaruhkecewa":-4
-"susahpollharap":-4
-"dibocorin":-4
-"sinyalnyatolong":-4
-"sinyalnyagagal":-4
-"labil":-4
-"gagalmulu":-4
-"unfriendly":-4
-"tumbang":-4
-"pemberosan":-4
-"riject":-4
-"menyecewakan":-4
-"counter":-4
-"bcaparah":-4
-"aplikasihadeuhh":-4
-"smsmenyusahkan":-4
-"naudzubillah":-4
-"keblockirsdg":-4
-"sindikat":-4
-"wjahy":-4
-"susahmerah":-4
-"keruk":-4
-"burukupdate":-4
-"arogan":-4
-"bastend":-4
-"kebukak":-4
-"smsmaksa":-4
-"zamanribet":-4
-"bahay":-4
-"sumpaaahhh":-4
-"buangbuqng":-4
-"erorsinyal":-4
-"susahmasa":-4
-"hilangbener2":-4
-"habis2sin":-4
-"keblokirrr":-4
-"taig":-4
-"mengcewakan":-4
-"fiktif":-4
-"kagapayahjgn2":-4
-"nihbahaya":-4
-"menyedol":-4
-"kesalahan2":-4
-"jelasmuter2":-4
-"matap":-4
-"gagakl":-4
-"ngacobca":-4
-"dpersulit":-4
-"cuih":-4
-"invalid":-4
-"terrrrribettt":-4
-"susahdan":-4
-"errorbuang":-4
-"registrasibuang":-4
-"keselll":-4
-"aksesmenghabiskan":-4
-"waktuberujung":-4
-"payahhabis2":-4
-"jugabuang":-4
-"anying":-4
-"terblokirpadahal":-4
-"menyebalkanmasa":-4
-"masukparah":-4
-"zonkk":-4
-"haringengong":-4
-"ngengong":-4
-"superkecewa":-4
+"negatif": -4,
+"miskin": -4,
+"payahhhh": -4,
+"dikerjain": -4,
+"setan": -4,
+"garibet": -4,
+"sebel": -4,
+"hancur": -4,
+"lintah": -4,
+"fitut": -4,
+"lemotttt": -4,
+"retas": -4,
+"sesat": -4,
+"terblokirdan": -4,
+"unfaedah": -4,
+"oprtr": -4,
+"kacauu": -4,
+"problemm": -4,
+"dapatin": -4,
+"otppadahal": -4,
+"kacauuuuu": -4,
+"bused": -4,
+"parahhhhhhh": -4,
+"beruk": -4,
+"kendalatapi": -4,
+"anjeng": -4,
+"haduuuuh": -4,
+"jebot": -4,
+"ditolakoke": -4,
+"ngecewain": -4,
+"terbolokir": -4,
+"anjjjj": -4,
+"lemotttttttt": -4,
+"gakada": -4,
+"gagak": -4,
+"errorr": -4,
+"hancurr": -4,
+"10kgilak": -4,
+"parahmaaf": -4,
+"maluin": -4,
+"ketidaknyamanan": -4,
+"sombong": -4,
+"bankzat": -4,
+"erorternyata": -4,
+"merugikantolong": -4,
+"buangetttt": -4,
+"mulubuang": -4,
+"gagalcoba": -4,
+"namepassowrd": -4,
+"verifikasimerepotkan": -4,
+"ngawur": -4,
+"ngaruhkecewa": -4,
+"susahpollharap": -4,
+"dibocorin": -4,
+"sinyalnyatolong": -4,
+"sinyalnyagagal": -4,
+"labil": -4,
+"gagalmulu": -4,
+"unfriendly": -4,
+"tumbang": -4,
+"pemberosan": -4,
+"riject": -4,
+"menyecewakan": -4,
+"counter": -4,
+"bcaparah": -4,
+"aplikasihadeuhh": -4,
+"smsmenyusahkan": -4,
+"naudzubillah": -4,
+"keblockirsdg": -4,
+"sindikat": -4,
+"wjahy": -4,
+"susahmerah": -4,
+"keruk": -4,
+"burukupdate": -4,
+"arogan": -4,
+"bastend": -4,
+"kebukak": -4,
+"smsmaksa": -4,
+"zamanribet": -4,
+"bahay": -4,
+"sumpaaahhh": -4,
+"buangbuqng": -4,
+"erorsinyal": -4,
+"susahmasa": -4,
+"hilangbener2": -4,
+"habis2sin": -4,
+"keblokirrr": -4,
+"taig": -4,
+"mengcewakan": -4,
+"fiktif": -4,
+"kagapayahjgn2": -4,
+"nihbahaya": -4,
+"menyedol": -4,
+"kesalahan2": -4,
+"jelasmuter2": -4,
+"matap": -4,
+"gagakl": -4,
+"ngacobca": -4,
+"dpersulit": -4,
+"cuih": -4,
+"invalid": -4,
+"terrrrribettt": -4,
+"susahdan": -4,
+"errorbuang": -4,
+"registrasibuang": -4,
+"keselll": -4,
+"aksesmenghabiskan": -4,
+"waktuberujung": -4,
+"payahhabis2": -4,
+"jugabuang": -4,
+"anying": -4,
+"terblokirpadahal": -4,
+"menyebalkanmasa": -4,
+"masukparah": -4,
+"zonkk": -4,
+"haringengong": -4,
+"ngengong": -4,
+"superkecewa": -4
 "gagal":-5,
 "susah":-5,
 "ribet":-5,
