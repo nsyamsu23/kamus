@@ -1,4 +1,4 @@
-"halobca":-1,
+{ "halobca":-1,
 "logout":-1,
 "mandiri":-1,
 "gara":-1,
@@ -1085,4 +1085,5 @@
 "penipuannn":-5,
 "selingkuhin":-5,
 "amsyong":-5,
+}
 
