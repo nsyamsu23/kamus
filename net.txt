@@ -202,8 +202,7 @@
 "linkanejny":0,
 "mcdnya":0,
 "qrisusul":0,
-"sbge":0
-
+"sbge":0,
 "aplikasi":3,
 "fitur":3,
 "update":3,
