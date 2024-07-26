@@ -1,4 +1,4 @@
-{ 
+{
 "always":0,
 "way":0,
 "bcayg":0,
@@ -3412,7 +3412,7 @@
 "godjob":5,
 "bagusrespon":5,
 "muantaffff":5,
-"jozzzz":5
+"jozzzz":5,
 "aplikasi":3,
 "fitur":3,
 "update":3,
