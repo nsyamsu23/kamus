@@ -4994,5 +4994,5 @@
   "baguuuuuss": 5,
   "bisaaaa": 5,
   "legend": 5,
-  "sampahpulsa": 5,
+  "sampahpulsa": 5
 }  
